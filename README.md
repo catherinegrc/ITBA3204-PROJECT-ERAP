@@ -18,7 +18,7 @@ Nevertheless, in spite of all the remarkable gains, inequalities have persisted 
 
 The theme of the 2017 High-Level Political Forum was "Eradicating poverty and promoting prosperity in a changing world”", and it included SDG 1 as one of the focus SDGs.
 
-## Problem Statement
+## Problem Statement 
 
 ### Significance of the Proposed Project
 This project will provide a variety of data sets exemplifying poverty in the Philippines. This research will be useful for the following purposes:
