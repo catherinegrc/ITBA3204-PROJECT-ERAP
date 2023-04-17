@@ -27,6 +27,8 @@ The COVID-19 has severely impacted rural livelihoods. In disadvantaged communiti
 
 According to Reuters (2022), About 2.3 million people in the Philippines were pushed into poverty between 2018 and 2021, largely due to the economic downturn caused by the pandemic. The number of people living in poverty in 2021 rose to a total of almost 20 million or 18.1% of the population from 16.7% in 2018, the Philippine Statistic Authority (PSA) said, overshooting the government’s target of 15.5%-17.5%. According to PhilStar Global (2022),More Filipinos ended poor in 2021 compared to three years ago after the pandemic wiped out gains in poverty reduction that took years to achieve.
 
+![VIRUS](https://user-images.githubusercontent.com/113661252/232554689-9cbc146a-3f6e-4c22-8321-1a25ff1e01ad.jpg)
+
 ### Significance of the Proposed Project
 Current estimations are that between 657 and 676 million people live in extreme poverty. The pre-pandemic projection was much lower – 581 million. In 2022 alone, this number increased by at least 76 million. COVID-19 caused significant economic and social costs in the short term. Though we believe that the pandemic is only a temporary fad, it has forced many vulnerable households living on the outside back into poverty. This project's goal is to supply an explanatory analysis of the progress of Poverty in the Philippines erased by Covid-19. This project will provide a variety of data sets exemplifying poverty caused by covid-19 in the Philippines. This research will be useful for the following purposes:
 
