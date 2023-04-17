@@ -23,7 +23,7 @@ Earlier this year, the United Nations published a comprehensive report on the cu
 ## Problem Statement
 
 ### Significance of the Proposed Project
-This project will provide a variety of data sets exemplifying poverty in the Philippines. This research will be useful for the following purposes:
+Current estimations are that between 657 and 676 million people live in extreme poverty. The pre-pandemic projection was much lower – 581 million. In 2022 alone, this number increased by at least 76 million. COVID-19 caused significant economic and social costs in the short term. Though we believe that the pandemic is only a temporary fad, it has forced many vulnerable households living on the outside back into poverty. This project's goal is to supply an explanatory analysis of the progress of Poverty in the Philippines erased by Covid-19. This project will provide a variety of data sets exemplifying poverty caused by covid-19 in the Philippines. This research will be useful for the following purposes:
 
 To the **Students** who will be needing data that may be found from the project. This will allow them to have a thorough understanding of the Philippines' poverty throughout time.
 
