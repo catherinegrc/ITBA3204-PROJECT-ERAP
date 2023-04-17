@@ -1,6 +1,6 @@
 ![Screenshot 2023-04-16 220516](https://user-images.githubusercontent.com/113661252/232318687-eb0bc4e1-1b4c-401b-8eae-e6c16b3b48f3.png)
 
-# Project Title: Progress of Poverty in the Philippines erased by Covid-19
+#  Progress of Poverty in the Philippines erased by Covid-19
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)***
 
 ![PROJECT-MEMBERS](https://user-images.githubusercontent.com/113661252/232320859-3528286b-ae26-444d-8792-fb4a4c62ec27.png)
@@ -16,9 +16,9 @@ As recalled by the foreword of the 2015 Millennium Development Goals Report, at 
 
 Nevertheless, in spite of all the remarkable gains, inequalities have persisted and progress has been uneven. Therefore, the 2030 Agenda for Sustainable Development and its set of Sustainable Development Goals have been committed, as stated in the Declaration of the Agenda, “to build upon the achievements of the Millennium Development Goals and seek to address their unfinished business”.
 
-The theme of the 2017 High-Level Political Forum was "Eradicating poverty and promoting prosperity in a changing world”", and it included SDG 1 as one of the focus SDGs.
+The theme of the 2017 High-Level Political Forum was "Eradicating poverty and promoting prosperity in a changing world”", and it included SDG 1 as one of the focus SDGs.[^1]
 
-Earlier this year, the United Nations published a comprehensive report on the current worldwide situation. According to the report, the COVID-19 pandemic has so far cost the lives of close to 15 million people. But that’s just the beginning of the pandemic’s terrible impact. The UN mentions overwhelmed healthcare systems, millions living in poverty, the increase in domestic violence and many other significant problems. The COVID-19 pandemic wiped out more than four years of progress on poverty eradication and pushed 93 million more people into extreme poverty in 2020.
+Earlier this year, the United Nations published a comprehensive report on the current worldwide situation. According to the report, the COVID-19 pandemic has so far cost the lives of close to 15 million people. But that’s just the beginning of the pandemic’s terrible impact. The UN mentions overwhelmed healthcare systems, millions living in poverty, the increase in domestic violence and many other significant problems.[^2] The COVID-19 pandemic wiped out more than four years of progress on poverty eradication and pushed 93 million more people into extreme poverty in 2020.[^3]
 
 ![covpove](https://user-images.githubusercontent.com/113661252/232517220-5e58c2b4-e653-4d48-a27e-60300bd5563e.png)
 
@@ -27,7 +27,7 @@ The COVID-19 has severely impacted rural livelihoods. In disadvantaged communiti
 
 According to Reuters (2022), About 2.3 million people in the Philippines were pushed into poverty between 2018 and 2021, largely due to the economic downturn caused by the pandemic. The number of people living in poverty in 2021 rose to a total of almost 20 million or 18.1% of the population from 16.7% in 2018, the Philippine Statistic Authority (PSA) said, overshooting the government’s target of 15.5%-17.5%. According to PhilStar Global (2022),More Filipinos ended poor in 2021 compared to three years ago after the pandemic wiped out gains in poverty reduction that took years to achieve.
 
-![VIRUS](https://user-images.githubusercontent.com/113661252/232554689-9cbc146a-3f6e-4c22-8321-1a25ff1e01ad.jpg)
+![VIRUSSS](https://user-images.githubusercontent.com/113661252/232554989-d2728658-fb43-4586-9986-0a0aba7caf0b.png)
 
 ### Significance of the Proposed Project
 Current estimations are that between 657 and 676 million people live in extreme poverty. The pre-pandemic projection was much lower – 581 million. In 2022 alone, this number increased by at least 76 million. COVID-19 caused significant economic and social costs in the short term. Though we believe that the pandemic is only a temporary fad, it has forced many vulnerable households living on the outside back into poverty. This project's goal is to supply an explanatory analysis of the progress of Poverty in the Philippines erased by Covid-19. This project will provide a variety of data sets exemplifying poverty caused by covid-19 in the Philippines. This research will be useful for the following purposes:
@@ -43,6 +43,14 @@ To the **Future Researchers** to provide background knowledge concerning poverty
 ## Methods
 
 ## Expected Output
+
+
+
+[^1]: https://sdgs.un.org/topics/poverty-eradication
+
+[^2]: More than four years of progress against poverty erased by Covid-19. (2022, September 14). Admind. https://admindagency.com/blog/sustainability-after-pandemic/
+
+[^3]: https://www.un.org/sustainabledevelopment/progress-report/
 
 
 #### References:
