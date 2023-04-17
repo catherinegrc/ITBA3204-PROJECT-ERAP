@@ -1,6 +1,6 @@
 ![Screenshot 2023-04-16 220516](https://user-images.githubusercontent.com/113661252/232318687-eb0bc4e1-1b4c-401b-8eae-e6c16b3b48f3.png)
 
-# Project Title: Poverty in the Philippines 
+# Project Title: Progress of Poverty in the Philippines erased by Covid-19
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)***
 
 ![PROJECT-MEMBERS](https://user-images.githubusercontent.com/113661252/232320859-3528286b-ae26-444d-8792-fb4a4c62ec27.png)
@@ -17,6 +17,8 @@ As recalled by the foreword of the 2015 Millennium Development Goals Report, at 
 Nevertheless, in spite of all the remarkable gains, inequalities have persisted and progress has been uneven. Therefore, the 2030 Agenda for Sustainable Development and its set of Sustainable Development Goals have been committed, as stated in the Declaration of the Agenda, “to build upon the achievements of the Millennium Development Goals and seek to address their unfinished business”.
 
 The theme of the 2017 High-Level Political Forum was "Eradicating poverty and promoting prosperity in a changing world”", and it included SDG 1 as one of the focus SDGs.
+
+Earlier this year, the United Nations published a comprehensive report on the current worldwide situation. According to the report, the COVID-19 pandemic has so far cost the lives of close to 15 million people. But that’s just the beginning of the pandemic’s terrible impact. The UN mentions overwhelmed healthcare systems, millions living in poverty, the increase in domestic violence and many other significant problems. The COVID-19 pandemic wiped out more than four years of progress on poverty eradication and pushed 93 million more people into extreme poverty in 2020.
 
 ## Problem Statement
 
