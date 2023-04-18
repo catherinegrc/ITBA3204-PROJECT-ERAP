@@ -57,5 +57,7 @@ Prior to drawing any assumptions, the goal of the study is to find broad pattern
 [^5]: R. (2022, August 15). Pandemic pushed millions more into poverty in the Philippines, government says. Reuters. https://www.reuters.com/world/asia-pacific/pandemic-pushed-millions-more-into-poverty-philippines-govt-2022-08-15/
 
 [^6]: How COVID-19 impacted vulnerable communities in the Philippines https://blogs.worldbank.org/eastasiapacific/how-covid-19-impacted-vulnerable-communities-philippines#:~:text=COVID%2D19%20has%20taken%20a,and%20its%20severe%20economic%20impact.
+
+
 #### References:
 ##### https://sdgs.un.org/topics/poverty-eradication
