@@ -55,6 +55,6 @@ Prior to drawing any assumptions, the goal of the study is to find broad pattern
 [^4]: How COVID-19 impacted vulnerable communities in the Philippines. (2021, November 10). World Bank Blogs. https://blogs.worldbank.org/eastasiapacific/how-covid-19-impacted-vulnerable-communities-philippines fbclid=IwAR27f5UqL62XfCvSeAA3Xhg7wEwT9PB5_hWQOjSvaS3imnviszpICEHlwPA#:~:text=COVID%2D19%20has%20taken%20a,and%20its%20severe%20economic%20impact
 
 [^5]: R. (2022, August 15). Pandemic pushed millions more into poverty in the Philippines, government says. Reuters. https://www.reuters.com/world/asia-pacific/pandemic-pushed-millions-more-into-poverty-philippines-govt-2022-08-15/
-[^6] : How COVID-19 impacted vulnerable communities in the Philippines https://blogs.worldbank.org/eastasiapacific/how-covid-19-impacted-vulnerable-communities-philippines#:~:text=COVID%2D19%20has%20taken%20a,and%20its%20severe%20economic%20impact.
+[^6]: How COVID-19 impacted vulnerable communities in the Philippines https://blogs.worldbank.org/eastasiapacific/how-covid-19-impacted-vulnerable-communities-philippines#:~:text=COVID%2D19%20has%20taken%20a,and%20its%20severe%20economic%20impact.
 #### References:
 ##### https://sdgs.un.org/topics/poverty-eradication
