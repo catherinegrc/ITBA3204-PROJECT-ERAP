@@ -54,7 +54,7 @@ Prior to drawing any assumptions, the goal of the study is to find broad pattern
 
 [^4]:How COVID-19 impacted vulnerable communities in the Philippines  https://blogs.worldbank.org/eastasiapacific/how-covid-19-impacted-vulnerable-communities-philippines#:~:text=COVID%2D19%20has%20taken%20a,and%20its%20severe%20economic%20impact.
 
-[^5]IMPACT OF COVID-19 ON POVERTY IN THE PHILIPPINES
+[^5]:IMPACT OF COVID-19 ON POVERTY IN THE PHILIPPINES
 https://borgenproject.org/impact-of-covid-19-on-poverty-in-the-philippines/
 
 
