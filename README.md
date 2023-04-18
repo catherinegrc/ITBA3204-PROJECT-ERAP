@@ -41,6 +41,7 @@ To the **Government Officials** who will be needing data that they may use for t
 To the **Future Researchers** to provide background knowledge concerning poverty in the Philippines. This project's analytics can provide them with new insights, suggestions, and conclusions.
 
 ## Methods
+There are numerous studies on the pandemic's impacts on poverty, but the growing discussions and research on the pandemic's effects on the Philippines' poverty rate offer a potential to produce new empirical evidence and knowledge on this subject. Therefore, carrying out empirical research is a suitable way to expand upon and investigate fresh research. The article's main goal is to analyze data on adaption strategies in the context of the Philippines and draw conclusions. 
 
 ## Expected Output
 
