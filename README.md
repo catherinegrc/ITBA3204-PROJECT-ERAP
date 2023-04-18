@@ -44,8 +44,7 @@ To the **Future Researchers** to provide background knowledge concerning poverty
 There are numerous studies on the pandemic's impacts on poverty, but the growing discussions and research on the pandemic's effects on the Philippines' poverty rate offer a potential to produce new empirical evidence and knowledge on this subject. Therefore, carrying out empirical research is a suitable way to expand upon and investigate fresh research. The article's main goal is to analyze data on adaption strategies in the context of the Philippines and draw conclusions. 
 
 ## Expected Output
-
-
+Prior to drawing any assumptions, the goal of the study is to find broad patterns in the data that could help the researcher. If the analysis's findings are corroborated and show a connection between the variables—or, conversely, if the findings are deteriorating—they can be used to raise the public's understanding of the need in making solutions in the effects of pandemic on the rate of poverty and to inform future research that will result in a sound strategic plan. The government can also make adjustments and pick up tips from other nations that have effectively developed a strategic strategy in addressing the issues with regards to the effect of the pandemic on the poverty in the country. 
 
 [^1]: https://sdgs.un.org/topics/poverty-eradication
 
